@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srajan B Shetty
 - 👀 I’m interested in Anime, Coding and Gaming.
-- 🌱 I’m currently learning Bca at Manglore University.
+- 🌱 Software Engineer at NGX Technologies PVT LTD.
 - 💞️ I’m looking to collaborate on App Dev.
 - 📫 How to reach me ...
     
